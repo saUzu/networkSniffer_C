@@ -6,6 +6,6 @@ MinGW Kullanarak, Windows 10'da yazdım.
 
 Basit bir WireShark türü, "Network Monitor" programıdır. "bin" klasörünün içinde örnek bir çıktı vardır.
 
-İçerikleri elimden geldiğince türkçeye çevirmeye çalıştım. Öğrenilmesi, anlaşılması daha kolay olsun diye TCP bayraklarını çevirmedim.
+Değişken adlarını özellikle türkçe yaptım ki öğrenilmesi ve anlaşılması daha kolay olsun. TCP bayrak adlarını çevirmedim.
 
 Ekranı temizleme kodunu internetten buldum.
