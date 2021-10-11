@@ -7,3 +7,5 @@ Npcap Sürümü : 1.50
 Basit bir WireShark türü, "Network Monitor" programıdır.
 
 İçerikleri elimden geldiğince türkçeye çevirmeye çalıştım. Öğrenilmesi, anlaşılması daha kolay olsun diye TCP bayraklarını çevirmedim.
+
+"bin" klasörünün içinde örnek bir çıktı vardır.
