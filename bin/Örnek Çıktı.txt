@@ -18,7 +18,7 @@
  | -Protokol			:	1
  | -Baslik Saglama		:	57290
  | -Kaynak Adresi		:	192.168.1.232
- | -Hedef Adresi		:	142.250.187.174
+ | -Hedef Adresi		:	*.*.*.*
 
 			ICMP BASLIGI
  | -Turu			:	142
